@@ -47,11 +47,8 @@ require (
 	github.com/klauspost/compress v1.14.2 // indirect
 	github.com/miekg/dns v1.1.45 // indirect
 	github.com/multiformats/go-base32 v0.0.4 // indirect
-	github.com/multiformats/go-multihash v0.1.0 // indirect
-	github.com/onsi/ginkgo v1.16.5 // indirect
 	github.com/valyala/fastjson v1.6.3 // indirect
 	go.uber.org/zap v1.20.0 // indirect
-	golang.org/x/net v0.0.0-20220127074510-2fabfed7e28f // indirect
-	golang.org/x/tools v0.1.9 // indirect
+	golang.org/x/net v0.7.0 // indirect
 	lukechampine.com/blake3 v1.1.7 // indirect
 )
